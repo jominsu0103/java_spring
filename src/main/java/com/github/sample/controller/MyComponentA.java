@@ -13,5 +13,5 @@ public class MyComponentA {
 
     public MyComponentA(MyComponentB componentB) {
         this.componentB = componentB;
-    }
+    } 
 }
